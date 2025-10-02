@@ -1,2 +1,2 @@
 Howdy! 🇫🇷
-![Metrics](https://metrics.lecoq.io/kolbxyz?template=classic&base.header=0&gists=1&lines=1&config.timezone=France%2FParis)
+![Metrics](https://metrics.lecoq.io/kolbxyz?template=classic&base.header=0&gists=1&lines=1&config.timezone=France)
