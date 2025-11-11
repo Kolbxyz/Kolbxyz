@@ -1,8 +1,8 @@
 # 👋 Howdy! I'm Kolb
 
-🎓 I'm a French developer and student at **Epitech**, passionate about creating seamless and beautiful experiences on **Roblox**.
+🎓 I'm a French developer and student at **Epitech**, passionate about creating experiences on **Roblox** among other things.
 
-💻 I specialize in **Luau programming** and **UI design**, focusing on both **frontend** and **backend** development.  
+💻 I specialize in **Luau programming** and **UI design**.  
 I enjoy building interactive interfaces, smooth animations, and clean systems that make user experiences shine.
 
 ---
@@ -19,8 +19,8 @@ Check out some of my Roblox creations — from UI systems to complex backend log
 
 - **Luau** / **Lua**
 - **Roblox Studio**
-- **UI / UX Design / Figma**
-- **Frontend & Backend Development**
+- **UI Design / Figma**
+- **Backend Development**
 - **Version Control (Git, GitHub)**
 
 ---
