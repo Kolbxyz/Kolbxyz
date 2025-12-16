@@ -17,4 +17,6 @@ Check out some of my Roblox creations — from UI systems to complex backend log
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolbxyz&show_icons=true&theme=transparent)
+
 > Have a nice day! 💙
