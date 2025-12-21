@@ -17,6 +17,6 @@ Check out some of my Roblox creations — from UI systems to complex backend log
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kolbxyz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kolbxyz&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 > Have a nice day! 💙
