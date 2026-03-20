@@ -1,7 +1,7 @@
 Hi,
 I'm a French programmer and student at **Epitech**.
 
-### 🧩 My Work
+### My Work
 
 Check out some of my Roblox creations, from UI systems to complex backend logic:
 
