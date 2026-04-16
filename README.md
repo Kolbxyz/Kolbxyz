@@ -12,7 +12,7 @@ Check out some of my Roblox creations, from UI systems to complex backend logic:
 ### Contacts
 
 💼 Roblox Talent: [kolbxyz](https://create.roblox.com/talent/creators/1066195213)  
-🐦 Twitter: [@kolbxyz](https://twitter.com/kolbxyz)
+🐦 Twitter: [@kolbxyz](https://twitter.com/kolbxyz)  
 📫 Contact: *Kolb.xyz on discord*
 
 ---
