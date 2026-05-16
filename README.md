@@ -13,10 +13,11 @@ Check out some of my Roblox creations, from UI systems to complex backend logic:
 
 💼 Roblox Talent: [kolbxyz](https://create.roblox.com/talent/creators/1066195213)  
 🐦 Twitter: [@kolbxyz](https://twitter.com/kolbxyz)  
-📫 Contact: *Kolb.xyz on discord*
+📫 Contact: *kolb.xyz on discord*
+🌏 Website: [About](https://kolbxyz.xyz)
 
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kolbxyz&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-> Have a nice day! 💙
+\> Have a nice day! 💙
