@@ -18,4 +18,5 @@
       <img alt="Kolbxyz's commit history" src="https://commit-history.com/embed/Kolbxyz" width=600/>
     </picture>
   </a>
+  <img src="https://streak-stats.demolab.com/?user=Kolbxyz&theme=vue-dark&hide_border=true&card_width=550"/>
 </div>
