@@ -1,4 +1,4 @@
-<h1 align="center">Kolbxyz · French Programmer</h1>
+<h1 align="center">About</h1>
 <p align="center">
   <a href="https://kolbxyz.xyz"><img src="https://img.shields.io/badge/Web-kolbxyz.xyz-blue?style=flat-square" alt="Website"/></a>
   <a href="https://twitter.com/kolbxyz"><img src="https://img.shields.io/badge/Twitter-@kolbxyz-1DA1F2?style=flat-square&logo=x" alt="Twitter"/></a>
